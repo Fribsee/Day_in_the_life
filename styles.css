@@ -4,7 +4,7 @@ html {
 
 body {font-family: 'Hanalei Fill', cursive;
 font-family: 'Kirang Haerang', cursive;
-  background:radial-gradient(palegreen 80%, yellow 20%);
+  background:radial-gradient(palegreen, yellow);
   min-height: 100%;
   margin: 0;
 }
