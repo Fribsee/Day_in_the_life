@@ -2,40 +2,39 @@ html {
   height: 100%;
 }
 
-body {font-family: 'Hanalei Fill', cursive;
-font-family: 'Kirang Haerang', cursive;
-  background:radial-gradient(palegreen, yellow);
+body {font-family:'Kirang Haerang', cursive;
+font-family: 'Work Sans', cursive;
+  background-color: lightyellow;
   min-height: 100%;
-  margin: 0;
+  margin: 20px;
 }
 
+.image {width: 40%;
+ display: block;
+margin-left: auto;
+margin-right: auto;}
 
+nav {text-align: center;}
 .button {
   text-align: left;
-  background-color: orange;
-  border: none;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 21px;
-    margin: 4px 2px;
-    cursor: pointer
+  background-color: turquoise;
+  border: solid;
+  color: grey;
+  padding: 30px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 21px;
+  margin: 4px 2px;
+  cursor: pointer
 }
-
-h1 {
-  background-image: url("https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ab7082dc38626751767a3fd846a8919c&auto=format&fit=crop&w=1050&q=80");
-    background-clip:border-box;
-    background-size:contain;
-    border: none;
-    padding: 62px;text-align: center;
-text-shadow: 5px 5px black;
-color: white;
-font-size: 58px;
+h1 {text-align: center;
+text-shadow: 2px 2px grey;
+color: turquoise;
+font-size: 42px;
 }
 
 
-h2 {color: red}
+h2 {color: blue}
 
-h3 {color: darkgreen}
+h3 {color: black}
